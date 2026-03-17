@@ -11,7 +11,7 @@ export default defineConfig({
       manifest: {
         name: 'Guardião - Serviços Brasil',
         short_name: 'Guardião',
-        description: 'Consulta CEP, validação de CPF e CNPJ',
+        description: 'Plataforma completa de consultas e serviços — CEP, CPF, CNPJ, IBGE, FIPE, Clima, Crypto, Mind7 e mais',
         theme_color: '#0f172a',
         background_color: '#0f172a',
         display: 'standalone',
